@@ -1,0 +1,39 @@
+.Hotel_Booking{
+    text-align: center;
+    color: #daa520;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home1{
+    transform: translate(590px,30px);
+}
+.Home{
+    color: rgb(255, 179, 0);
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    margin-left: 610px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home:hover{
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+label{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #daa520;
+}
+.div1{
+    
+    padding-left: 500px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: #daa520;
+}
+#b1{
+    margin-left: 100px;
+}

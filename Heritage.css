@@ -1,0 +1,62 @@
+.Heritage{
+    text-align: center;
+    color: #daa520;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home{
+    color: rgb(255, 179, 0);
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    margin-left: 610px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.palace{
+    color: #daa520;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Home1{
+    transform:translate(600px,-49px);
+}
+#amber{
+    color: #daa520;
+    transform:translate(500px,20px);
+    width: 300px;
+    border-style: groove;
+}
+.images{
+    transform:translate(150px,10px);
+}
+.Hawa{
+    color: #daa520;
+    transform:translate(500px,20px);
+    width: 300px;
+    border-style: groove;
+}
+.Hawa_img{
+    transform:translate(150px,10px);
+}
+.City{
+    color: #daa520;
+    transform:translate(500px,20px);
+    width: 300px;
+    border-style: groove;
+}
+.City_img{
+    transform:translate(150px,10px);
+}
+.jantar{
+    transform:translate(500px,20px);
+    width: 300px;
+    border-style: groove;
+}
+#rt{
+    padding-left: 10px;
+    border-style: solid;
+    margin-right: 100px;
+    border-radius: 5px;
+}

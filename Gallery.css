@@ -1,0 +1,28 @@
+.jaipur{
+    text-align: center;
+    color: #daa520;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Home{
+    color: rgb(255, 179, 0);
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    margin-left: 1200px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.right{
+    width: 600px;
+    transform: translate(700px,0px);
+    border-style: groove;
+    border-radius: 10px;
+}
+.left{
+    width: 600px;
+    transform: translate(0px,0px);
+    border-style: groove;
+    border-radius: 10px;
+}

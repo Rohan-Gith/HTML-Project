@@ -1,0 +1,107 @@
+body{
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    background-size: 200px ; 
+    background-position-x:1185px ;
+    background-attachment: scroll;
+
+}
+.hold{
+    transform: translate(0px,-250px);
+}
+.img{
+    border-style: groove;
+    border-radius: 50px;
+    transform: translate(430px,-300px);
+    height: 500px;
+    width: 500px;
+}
+#History{
+    margin-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #daa520;
+    color: white;
+    background-color: black;
+    border-style: solid;
+    margin-left: 5px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 60px;
+    margin-left: 30px;
+    word-break: break-all;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jaipur{
+    text-align: center;
+    color: #daa520;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div1{
+    transform:translate(520px,-158px);
+}
+.div2{
+    transform:translate(210px,-284px);
+}
+.div3{
+    transform:translate(6px,-415px);
+}
+
+
+.Heritage{
+    color: rgb(255, 179, 0);
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    margin-left: 500px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           
+}
+.Heritage:hover{
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Hotel_Booking{
+    color: black;
+    margin-left: 625px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 179, 0);
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 37px;
+    margin-left: 597px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Hotel_Booking:hover{
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Gallery:hover{
+    color: rgb(255, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.Gallery{
+    color: black;
+    margin-left: 645px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 179, 0);
+    background-color: black;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    margin-left: 1190px;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
